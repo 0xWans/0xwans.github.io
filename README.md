@@ -1,3 +1,3 @@
 # 0xwans.github.io
 
-/my-backup/
+[my-backup](/my-backup/)
